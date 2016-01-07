@@ -19,6 +19,7 @@
 |TaoBaoUED|[http://ued.taobao.org/blog](http://ued.taobao.org/blog)|★★★★★|
 |携程设计委员会|[http://ued.ctrip.com/blog](http://ued.ctrip.com/blog)|★★★★★|
 |奇舞团前端开发团队|[http://www.75team.com](http://www.75team.com)|★★★★★|
+|新浪UED团队|[http://ued.sina.com.cn/](http://ued.sina.com.cn/)|★★★★|
 
 ## FRONT-END
 |名称|地址|星级|
